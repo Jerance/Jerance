@@ -1,6 +1,6 @@
 # 🚀 About Me
 
-I'm Michael Jerance, a passionate programmer 💻 currently pursuing a BAC+3 🎓 and soon transitioning into an M1 Lead Developer program. With years of coding experience, I aim to continue mastering full-stack and web / mobile development, driven by a desire to build innovative solutions💡and grow as a developer 🚀.
+I'm Michael Jerance, a passionate programmer 💻 currently pursuing a BAC+5 M1 Lead Developer program 🎓. With years of coding experience, I aim to continue mastering full-stack and web / mobile development, driven by a desire to build innovative solutions💡and grow as a developer 🚀.
 
 # 🛠️ Tech Stack
 
@@ -45,12 +45,18 @@ I'm Michael Jerance, a passionate programmer 💻 currently pursuing a BAC+3 �
 
 # 📊 GitHub Stats
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap:10px">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=jerance&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=jerance&theme=github_dark_dimmed&hide_border=true" alt="GitHub Streak" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerance&theme=github_dark_dimmed&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=jerance&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=jerance&theme=github_dark_dimmed&hide_border=true" alt="GitHub Streak" />
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerance&theme=github_dark_dimmed&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 
-## 💡 Other Stats
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=jerance&label=PROFILE%20VIEWS&color=red)
+<a href="https://github.com/jerance?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/jerance?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+</a>
+<a href="https://github.com/jerance?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jerance?color=e1ad0d&style=for-the-badge&labelColor=C79600&logo=star"/>
+</a>
+<a href="https://github.com/jerance">
+    <img src="https://komarev.com/ghpvc?username=jerance&color=red&style=for-the-badge" alt="Profile views"/>
+</a>
