@@ -25,8 +25,10 @@ I'm Michael Jerance, a passionate programmer 💻 currently pursuing a BAC+5 M1 
 ### 🗄️ Backend
 
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![AdonisJS](https://img.shields.io/badge/AdonisJS-%235A45FF.svg?style=for-the-badge&logo=adonisjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ### 🛢 Database
 
@@ -34,20 +36,27 @@ I'm Michael Jerance, a passionate programmer 💻 currently pursuing a BAC+5 M1 
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### ♾️ CI / CD
 
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI_CD-%23FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 <br/>
 
 # 📊 GitHub Stats
 
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=jerance&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=jerance&theme=github_dark_dimmed&hide_border=true" alt="GitHub Streak" />
 <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerance&theme=github_dark_dimmed&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+
+## 🏆 GitHub Trophies
+<img width="800" src="https://github-profile-trophy.vercel.app/?username=jerance&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+## 📈 Contribution Graph
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=jerance&theme=github-dark&hide_border=true" alt="Contribution Graph" />
 
 <br/>
 
