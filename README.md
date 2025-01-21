@@ -59,9 +59,9 @@ I'm Michael Jerance, a passionate programmer 💻 currently pursuing a BAC+5 M1 
     <img src="https://komarev.com/ghpvc?username=jerance&color=red&style=for-the-badge" alt="Profile views"/>
 </a>
 
-<img width="200" src="https://github-readme-stats.vercel.app/api?username=jerance&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=jerance&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-<img width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerance&theme=github_dark_dimmed&show_icons=true&hide_border=true&layout=donut" alt="Top Languages" />
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerance&theme=github_dark_dimmed&show_icons=true&hide_border=true&layout=donut" alt="Top Languages" />
 
 ## 🎯 Contributions
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=jerance&theme=github-dark&hide_border=true" alt="Contribution Graph" />
