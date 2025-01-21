@@ -49,17 +49,6 @@ I'm Michael Jerance, a passionate programmer 💻 currently pursuing a BAC+5 M1 
 
 # 📊 GitHub Stats
 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=jerance&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerance&theme=github_dark_dimmed&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-
-## 🏆 GitHub Trophies
-<img width="800" src="https://github-profile-trophy.vercel.app/?username=jerance&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
-## 📈 Contribution Graph
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=jerance&theme=github-dark&hide_border=true" alt="Contribution Graph" />
-
-<br/>
-
 <a href="https://github.com/jerance?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/jerance?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
 </a>
@@ -69,3 +58,15 @@ I'm Michael Jerance, a passionate programmer 💻 currently pursuing a BAC+5 M1 
 <a href="https://github.com/jerance">
     <img src="https://komarev.com/ghpvc?username=jerance&color=red&style=for-the-badge" alt="Profile views"/>
 </a>
+
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=jerance&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerance&theme=github_dark_dimmed&show_icons=true&hide_border=true&layout=donut" alt="Top Languages" />
+
+## 🎯 Contributions
+<img width="800" src="https://github-contribution-stats.vercel.app/api/?username=jerance&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true" alt="Contribution Stats" />
+
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=jerance&theme=github-dark&hide_border=true" alt="Contribution Graph" />
+
+## 🏆 GitHub Trophies
+<img width="800" src="https://github-profile-trophy.vercel.app/?username=jerance&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
