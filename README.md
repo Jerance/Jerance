@@ -65,6 +65,3 @@ I'm Michael Jerance, a passionate programmer 💻 currently pursuing a BAC+5 M1 
 
 ## 🎯 Contributions
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=jerance&theme=github-dark&hide_border=true" alt="Contribution Graph" />
-
-## 🏆 GitHub Trophies
-<img width="800" src="https://github-profile-trophy.vercel.app/?username=jerance&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
