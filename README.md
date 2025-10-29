@@ -1,7 +1,5 @@
 # 👋 Hey, I'm Jerance
 
-Just a passionate developer with big dreams.
-
 I love building things that make an impact — from web apps to mobile experiences.
 
 ## 💡 What I Do
@@ -24,9 +22,6 @@ I love building things that make an impact — from web apps to mobile experienc
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 🎨 UI/UX & Design System
-
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
