@@ -1,12 +1,12 @@
 # 👋 Hey, I'm Jerance
 
-I love building things that make an impact — from web apps to mobile experiences.
+I love building things that make a real impact and improve people’s lives.
 
 ## 💡 What I Do
 
 - Craft clean, scalable architectures
 - Build modern apps for web & mobile
-- Constantly learning and pushing boundaries
+- Constantly learning and pushing my limits
 
 ## 💎 My Favorite Stack
 
