@@ -56,3 +56,15 @@ I love building things that make an impact — from web apps to mobile experienc
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+## 📊 GitHub Stats
+
+<a href="https://github.com/jerance?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/jerance?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+</a>
+<a href="https://github.com/jerance?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jerance?color=e1ad0d&style=for-the-badge&labelColor=C79600&logo=star"/>
+</a>
+<a href="https://github.com/jerance">
+    <img src="https://komarev.com/ghpvc?username=jerance&color=red&style=for-the-badge" alt="Profile views"/>
+</a>
